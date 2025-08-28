@@ -1,0 +1,3 @@
+username,fullname,group,homedir,shell,dir
+alice,Alice Doe,developers,/home/alice,/bin/bash,/var/www/dev
+bob,Bob Ray,ops,/home/bob,/bin/bash,/srv/ops
